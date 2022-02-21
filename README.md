@@ -16,8 +16,8 @@ Esta es una Hackaton organizada por Children's Health donde el objetivo es mejor
 
 - Amazon Sumerian
 - Amplify
-- Java Android
-- Android Studio
+- React Native
+- Expo Go
 - Amazon Web Services
 - Realidad Virtual
 
