@@ -23,3 +23,7 @@ Esta es una Hackaton organizada por Children's Health donde el objetivo es mejor
 - Fecha de inicio: Febrero 01, 2022
 - Fecha de conclusión: Abril 10, 2022
 - Tiempo: 3 meses
+
+## Gane el Segundo Lugar!!
+
+![image](https://user-images.githubusercontent.com/21972563/163658195-e2436778-9704-4aba-84c3-445ede632f64.png)
